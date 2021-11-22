@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp_lunes15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peje08/bootcamp_lunes15.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peje08/bootcamp_lunes15/issues"
+  },
+  "homepage": "https://github.com/Peje08/bootcamp_lunes15#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
